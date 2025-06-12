@@ -1,7 +1,5 @@
 ![Craine on GitHub Banner](craine-on-github-banner.png)
 
-**Human-Centric Agency • Agentic AI • Personified User Interfaces**
-
 ---
 
 ## 🎯 The Mission
